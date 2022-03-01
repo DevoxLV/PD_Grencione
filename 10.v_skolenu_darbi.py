@@ -9,7 +9,7 @@
 #4 Dzērve Artūrs
 
 #5 Greilihs Dīvs Rihards
-
+print(cos(radians(60)+fmod(15,2)))
 #6 Lange Rūdolfs Toms
 
 #7 Meškonis Aleksandrs Nils
